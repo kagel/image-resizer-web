@@ -1,1 +1,1 @@
-web: lein ring server-headless $PORT
+web: java $JVM_OPTS -jar target/image-resizer-web.jar
