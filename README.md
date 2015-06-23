@@ -1,2 +1,3 @@
 # image-resizer-web
-Image resizer demo
+
+[image-resizer](https://github.com/josephwilk/image-resizer) + [Compojure](http://compojure.org/)
